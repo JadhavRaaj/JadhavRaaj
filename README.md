@@ -1,3 +1,7 @@
+###
+
+<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Raaj Jadhav
 ====================================================================================================================================
 
@@ -40,6 +44,3 @@ src="https://img.shields.io/github/followers/JadhavRaaj?logo=github&style=for-th
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JadhavRaaj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JadhavRaaj&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-###
-
-<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
