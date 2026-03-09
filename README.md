@@ -6,7 +6,7 @@
   <img height="150" src="https://media.tenor.com/Pb_J7XnQzbcAAAAi/mario-running.gif" />
 </p>
 
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> My name is Raaj Jadhav</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> My name is Raaj Jadhav.</h1>
 
 <h2>I am an AI Engineer, Backend Developer & Data Analyst.</h2>
 
