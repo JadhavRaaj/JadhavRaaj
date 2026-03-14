@@ -15,7 +15,7 @@
   🤝 I’m looking for help with advanced MERN stack deployment and optimizing high-performance backends.<br><br>
   🌱 I’m currently learning Deep Learning architectures and prepping for the GATE exam.<br><br>
   💬 Ask me about NLP, Computer Vision, or why I spend so much time looking at Nifty options charts.<br><br>
-  ⚡ Fun fact: My code works on the first try exactly 0% of the time, but my "it is what it is" attitude is at an all-time high.
+  ⚡ Fun fact: My code works on the first try exactly 0% of the time, but my "it is what it is" attitude is at an all-time high!!
 </p>
 
 <p>
